@@ -1,0 +1,7 @@
+student1 50 45 80 60 56 79
+student2 50 46 81 61 56 80
+student3 100 100 100 100 100 100
+student4 90 90 90 90 90 90
+student5 80 80 80 80 80 80
+student6 70 70 70 70 70 70
+student7
